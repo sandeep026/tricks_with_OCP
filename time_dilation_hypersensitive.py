@@ -2,7 +2,7 @@ import casadi as cs
 import numpy as np
 
 def hypersensitive_dilation():
-    N = 1000
+    N = 100
     opti = cs.Opti()
     nx=1+1
     nu=1+1

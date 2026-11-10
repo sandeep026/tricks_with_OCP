@@ -104,3 +104,5 @@ u_t
 $$
 
 Here, $u_t$ acts as the physical time-width rate and a control variable that must be strictly positive. Time is now treated as a new state variable, and a small value of $u_t$ implies a clustering of nodes.
+
+####
